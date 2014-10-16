@@ -1,0 +1,11 @@
+{
+  "name": "VisuMol",
+  "main": "src/molecule.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "node_modules",
+    "lib",
+    "spectra.json"
+  ]
+}
